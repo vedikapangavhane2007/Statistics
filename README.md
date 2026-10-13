@@ -78,6 +78,8 @@ By working through these notebooks, you can practise how to:
 ## Author
 
 [vedikapangavhane2007](https://github.com/vedikapangavhane2007)
+pritigaikwad274
+
 
 ## License
 
